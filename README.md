@@ -47,3 +47,5 @@
 5. If the notes are insufficient:
    - The machine will display a "Not enough money" message.
    - Your notes will be returned, and the coffee will not be dispensed.
+
+   Enjoy ur coffeeeeee
