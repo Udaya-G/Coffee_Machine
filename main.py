@@ -74,7 +74,7 @@ def make_coffee(drink_name, order_ingredients):
 is_on = True
 
 while is_on:
-    choice = input("​What would you like? \nespresso-90 rupees\nlatte-120 rupees\ncappuccino-160 rupees: ")
+    choice = input("MENU \nEspresso-90 rupees\nLatte-120 rupees\nCappuccino-160 rupees: ")
     if choice == "off":
         is_on = False
     elif choice == "report":
